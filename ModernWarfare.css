@@ -1,0 +1,346 @@
+body{
+    padding-left: 30px;
+    margin-left: -10px;
+    margin-right: 20px;
+    background-color: #F5DEB3;
+
+}
+header {
+    background-color: #D2B48C;
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding-top: -10px;
+  }
+nav {
+    opacity: 0.7;
+    font-size: 0.5cm;
+    position: sticky;
+    height: 80px;
+    overflow: hidden;
+    top: 0;
+    display: flex;
+    align-items: center;
+    background: #D3D3D3;
+    width: 100%;
+    margin-left: 2px;
+    margin-right: 50px;
+  }
+  .menu {
+    position: static;
+    right: 50px;
+  }
+  .menu a {
+    color: black;
+    text-decoration: none;
+    font-weight: 800;
+    margin-left: 20px;
+    transition: color 0.3s;
+  }
+h2 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+.price {
+    padding:10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.soap{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.ghost{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.gaz{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.niko{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.al{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.zakha{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.viktor{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.general{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.makarov{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.foley{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.ramires{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.roach{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.yuri{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.sandman{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.frost{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+h3 {
+    font-size: 0.5cm;
+    text-align: justify;
+}
+img {
+    right: 0.5cm;
+    border: 10px;
+}
+
+table table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+
+  }
+  
+  thead th:nth-child(1) {
+    width: 50%;
+  }
+  
+  thead th:nth-child(2) {
+    width: 20%;
+  }
+  
+  thead th:nth-child(3) {
+    width: 15%;
+  }
+  
+  thead th:nth-child(4) {
+    width: 35%;
+  }
+  
+  th, td {
+    padding: 20px;
+    right: 100px;
+  }
+h4{
+    font-size: 20px;
+    text-align: justify;
+}
+.ak{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 40px;
+}
+.m4a1{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 10px;
+}
+.aug{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 10px;
+}
+.fal{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 10px;
+}
+.fr{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 10px;
+}
+.kilo{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 10px;
+}
+.mp5{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 10px;
+}
+.uzi{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 10px;
+}
+.p90{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 10px;
+}
+.m13{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 10px;
+}
+.scar{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 10px;
+}
+.bizon{
+    padding: 10px;
+    float: right;
+    width: 250px;
+    position: static;
+    top: 10px;
+    left: 10px;
+}
+h5{
+    font-size: 0.5cm;
+    text-align: justify;
+    left:-1cm
+    
+}
+.nuke{
+    padding: 10px;
+    border: 10px;
+}
+
+.wrapper {
+  min-height: calc(100% - 4rem);
+}
+footer {
+    text-align: center;
+    height: 10rem;
+}
+.los{
+    opacity: 0.4;
+    filter:alpha(opacity=40);
+}
+.sal{
+    font-size: 1cm;
+    font-family: 'Oswald', sans-serif;
+    font-display: 1cm;
+}
+.trilo{
+    font-family: 'Oswald', sans-serif;
+    font-size: 0.5cm;
+    
+}
+.name{
+    font-family: 'Oswald', sans-serif;
+    font-size: 0.3cm;
+    position: sticky;
+}
